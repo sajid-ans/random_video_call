@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Random Video Call</string>
+    <string name="todo">TODO</string>
+    <string name="bhopal_india">Bhopal, India</string>
+    <string name="random_video_call">Random Video Call</string>
+    <string name="big_value">Talk with Random people \n from all around the globe. \n Make new friends and have fun!</string>
+    <string name="get_started">Get Started</string>
+</resources>
